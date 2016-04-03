@@ -33,7 +33,7 @@ public final class NetworkConstants {
 	/**
 	 * The number of seconds before a connection becomes idle.
 	 */
-	public static final int IDLE_TIME = 15;
+	public static final int IDLE_TIME = 60;
 
 	/**
 	 * The JAGGRAB port.
